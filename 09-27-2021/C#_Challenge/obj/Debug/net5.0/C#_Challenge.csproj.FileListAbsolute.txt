@@ -1,0 +1,16 @@
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\obj\Debug\net5.0\C#_Challenge.csproj.AssemblyReference.cache
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\obj\Debug\net5.0\C#_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\obj\Debug\net5.0\C#_Challenge.AssemblyInfoInputs.cache
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\obj\Debug\net5.0\C#_Challenge.AssemblyInfo.cs
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\obj\Debug\net5.0\C#_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\bin\Debug\net5.0\C#_Challenge.exe
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\bin\Debug\net5.0\C#_Challenge.deps.json
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\bin\Debug\net5.0\C#_Challenge.runtimeconfig.json
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\bin\Debug\net5.0\C#_Challenge.runtimeconfig.dev.json
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\bin\Debug\net5.0\C#_Challenge.dll
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\bin\Debug\net5.0\ref\C#_Challenge.dll
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\bin\Debug\net5.0\C#_Challenge.pdb
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\obj\Debug\net5.0\C#_Challenge.dll
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\obj\Debug\net5.0\ref\C#_Challenge.dll
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\obj\Debug\net5.0\C#_Challenge.pdb
+C:\Users\cayan\Desktop\Revature Training\Onboarding_Challenges\09-27-2021\C#_Challenge\obj\Debug\net5.0\C#_Challenge.genruntimeconfig.cache
