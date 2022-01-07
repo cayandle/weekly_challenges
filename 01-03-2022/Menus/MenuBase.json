@@ -1,0 +1,22 @@
+[
+    {
+        "item":"coffee",
+        "type":"drink",
+        "price":4.99
+    },
+    {
+        "item":"coke zero",
+        "type":"drink",
+        "price":1.99
+    },
+    {
+        "item":"lemon pound cake",
+        "type":"food",
+        "price":3.99
+    },
+    {
+        "item":"scone",
+        "type":"food",
+        "price":2.99
+    }
+]
